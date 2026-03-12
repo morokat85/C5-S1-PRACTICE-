@@ -14,7 +14,7 @@ export default function App() {
       backgroundColor: scoreColor,
     };
   };
-
+  console.log("hello")
   return (
     <>
       <div className="score-panel">
