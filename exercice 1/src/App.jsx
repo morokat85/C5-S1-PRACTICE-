@@ -5,7 +5,7 @@ export default function App() {
   
   const getScoreBarStyle = () => {
     // 1- Compute width
-    const scoreWidth = score * 10 + '%';
+    const scoreWidth = score * 10 + "%";
 
     // 2- Compute color (optional)
     let scoreColor = `#f3bc47`;
